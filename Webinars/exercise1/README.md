@@ -16,7 +16,7 @@ Introduction to Machine Learning:
  * [Video 4](https://www.youtube.com/watch?v=-hHtfd9JrAg&feature=em-share_video_user)
 
 ## Exercises:
- * Notebook - image_manipulation. In this notebook we will work with the data from Kaggle Data Science Bowl competition. We will load the data, display the images and apply various transformations available in skimage library.
+ * Notebook - [image_manipulation](image_manipulation.ipynb). In this notebook we will work with the data from Kaggle Data Science Bowl competition. We will load the data, display the images and apply various transformations available in skimage library.
 
 ## Additional materials:
 
