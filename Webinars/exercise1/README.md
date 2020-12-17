@@ -3,6 +3,7 @@
 ## Lecture videos:
 
 Bioimage Analysis:
+
 (those familiar with image analysis can skip this part)
 
  * [Introduction to Bioimage Analysis](https://www.ibiology.org/techniques/introduction-to-bioimage-analysis/)
