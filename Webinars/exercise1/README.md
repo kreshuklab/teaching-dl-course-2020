@@ -21,6 +21,7 @@ Introduction to Machine Learning:
 
 ## Additional materials:
 
+ * [Tutorial: Basic Python](https://www.w3schools.com/python/)
  * [Tutorial: Image processing with Python](https://datacarpentry.org/image-processing/)
  * [Python image manipulation tools](https://opensource.com/article/19/3/python-image-manipulation-tools)
  * [Skimage examples](https://scikit-image.org/docs/stable/auto_examples/index.html)
